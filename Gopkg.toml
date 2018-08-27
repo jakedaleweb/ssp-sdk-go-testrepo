@@ -1,0 +1,3 @@
+[[constraint]]
+  name = "github.com/silverstripeltd/ssp-sdk-go"
+  branch = "add_updateenv"
